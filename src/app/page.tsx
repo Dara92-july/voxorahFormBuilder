@@ -483,9 +483,6 @@ export default function Home() {
               <ExternalLink size={14} />
             </a>
 
-            <p className="mt-2 text-xs text-gray-400">
-              Replace the email address with your real contact email before deployment.
-            </p>
           </div>
         </div>
 
